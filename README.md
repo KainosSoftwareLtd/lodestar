@@ -35,6 +35,8 @@ Code style guides fit in here. Linters, that sort of jazz.
 
 ## NodeJS
 
+[Node JS coding style guide](node-js.md).
+
 ## Scala
 
 ## Python
